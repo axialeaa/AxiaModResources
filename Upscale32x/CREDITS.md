@@ -10,14 +10,17 @@ The Upscale 32x version of **Axia's Mod Resources** is based in [Faithful 32x][f
 # Florum Sporum
 **@DMgaming** _he/him/his_ ([GitHub][dmgaming-github], [Curseforge][dmgaming-curseforge], [X][dmgaming-x], [Twitch][dmgaming-twitch])
 - `spore_blossom.png`
+
 **@Aerod** _he/him/his_ ([GitHub][aerod-github])
 - `spore_blossom.png`
+
 **@EachKhaiho** _[pronouns not specified]_ ([YouTube][eachkhaiho-youtube])
 - `spore_blossom.png`
 
 # Glissando
 **@Skottify** _[pronouns not specified]_ ([Twitch][skottify-twitch], [YouTube][skottify-youtube], [X][skottify-x])
 - Various GUI elements
+
 **@Cituation** _[pronouns not specified]_
 - Various GUI elements
 
