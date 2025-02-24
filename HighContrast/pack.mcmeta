@@ -1,6 +1,9 @@
 {
   "pack": {
-    "description": "resourcePack.axialeaa.high-contrast.description",
+    "description": {
+      "translate": "resourcePack.axialeaa.high-contrast.description",
+      "fallback": "Based on High Contrast (built-in)"
+    },
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 15,

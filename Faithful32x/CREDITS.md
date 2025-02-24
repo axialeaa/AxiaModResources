@@ -1,4 +1,4 @@
-The Upscale 32x version of **Axia's Mod Resources** is based on [Faithful 32x][faithful], in particular the textures by the following artists:
+The Faithful 32x version of **Axia's Mod Resources** is based on [Faithful 32x][faithful], in particular the textures by the following artists:
 
 # Blocky Bubbles
 **@miniluv73** _he/him/his_ ([Bluesky][miniluv73-bluesky], [Reddit][miniluv73-reddit])

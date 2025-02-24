@@ -1,8 +1,8 @@
 {
   "pack": {
     "description": {
-      "translate": "resourcePack.axialeaa.programmer-art.description",
-      "fallback": "Based on Programmer Art (built-in)"
+      "translate": "resourcePack.axialeaa.faithful-32x.description",
+      "fallback": "Based on §8§nhttps://faithfulpack.net"
     },
     "pack_format": 15,
     "supported_formats": {
