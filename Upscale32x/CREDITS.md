@@ -1,4 +1,4 @@
-The Upscale 32x version of **Axia's Mod Resources** is based in [Faithful 32x][faithful], in particular the textures by the following artists:
+The Upscale 32x version of **Axia's Mod Resources** is based on [Faithful 32x][faithful], in particular the textures by the following artists:
 
 # Blocky Bubbles
 **@miniluv73** _he/him/his_ ([Bluesky][miniluv73-bluesky], [Reddit][miniluv73-reddit])
@@ -14,19 +14,15 @@ The Upscale 32x version of **Axia's Mod Resources** is based in [Faithful 32x][f
 **@Aerod** _he/him/his_ ([GitHub][aerod-github])
 - `spore_blossom.png`
 
-**@EachKhaiho** _[pronouns not specified]_ ([YouTube][eachkhaiho-youtube])
+**@EachKhaiho** _[not specified]_ ([YouTube][eachkhaiho-youtube])
 - `spore_blossom.png`
 
 # Glissando
-**@Skottify** _[pronouns not specified]_ ([Twitch][skottify-twitch], [YouTube][skottify-youtube], [X][skottify-x])
+**@Skottify** _[not specified]_ ([Twitch][skottify-twitch], [YouTube][skottify-youtube], [X][skottify-x])
 - Various GUI elements
 
-**@Cituation** _[pronouns not specified]_
+**@Cituation** _[not specified]_
 - Various GUI elements
-
-# Magmoia
-**@Aerod** _he/him/his_ ([GitHub][aerod-github])
-- `magma.png`
 
 [faithful]: https://faithfulpack.net/
 
